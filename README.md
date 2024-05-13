@@ -15,5 +15,3 @@ Here's how you can use it:
 - Choose whether to encrypt or decrypt the image.
 - Choose the encryption or decryption method.
 - The processed image will be saved in the current directory as either "encrypted_image.jpg" or "decrypted_image.jpg", depending on the operation performed.
-
-Is there anything specific you'd like to know or do with this script?
